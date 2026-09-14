@@ -2,16 +2,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Amitej Karan Singh
+- **CCID:** amitejka
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+https://youtu.be/dzUc9vrsldM?si=SgG_Sv1P1Cflw1dx
+https://youtu.be/6_wK_Ud8--0?si=NPJtzWtzqZimYO4I
+https://developer.android.com/compose
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+|     N/A      |    N/A    |
+|              |           |
